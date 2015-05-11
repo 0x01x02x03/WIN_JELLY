@@ -3,4 +3,5 @@ by a member of our team. You're a fucking beast wong.
 
 Requirements for use:
 - CUDA SDK/drivers installed
+- NVIDIA Card
 - Windows API
