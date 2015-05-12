@@ -1,4 +1,4 @@
-Full source code to an Importless Portable Executable gpu remote access tool (RAT) PoC developed
+Full source code to a Portable Executable gpu remote access tool (RAT) PoC developed
 by a member of our team.
 
 Requirements for use:
