@@ -10,4 +10,4 @@ aren't responsible.
 "False advertising"
 lol, is what happens when the media blows your shit out of proportion.
 
-http://phrack.org/papers/fall_of_groups.html  Dedicated to all the elitists hating on the younger crowds that are trying to learn.
+http://phrack.org/papers/fall_of_groups.html  Dedicated to all the elitists hating on the younger crowds trying to learn.
